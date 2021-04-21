@@ -14,7 +14,7 @@ const c: IConfig = {
   showGithub: false,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://nav.hanxi.info',
+  homeUrl: 'https://nav.hanxi.cc',
 
   // 网站标题
   title: '私人导航 - 涵曦的私人书签分享',
